@@ -1,5 +1,4 @@
-# codSoft
-CodSoft-Python Programming
+# codSoft-Python Programming
 1)To-do list.
 2)Calculater. 
 3)Password Generator
